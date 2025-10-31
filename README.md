@@ -1,4 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Lubna Asmi 👋
+
+I'm a Data Science apprentice passionate about leveraging data and AI to solve real-world problems and drive meaningful insights.
+
+## 🔧 Skills
+
+**Languages & Tools:**
+- **Programming:** Python,
+- **Databases:** SQL, PostgreSQL, MySQL
+- **Data Manipulation:** Pandas, NumPy
+- **Machine Learning:** Scikit-learn
+- **Data Visualization:** Matplotlib, Seaborn, Tableau
+- **Version Control:** Git, GitHub
+
+## 🌱 Currently Learning
+
+- Deep learning and neural networks
+- Advanced data visualization techniques
+- Artifitial Intelligence 
+  
+
+
+## 📫 Get in Touch
+
+- 📧 Email: (mailto:llubnaasmi@gmail.com)
+- 💼 LinkedIn: (https://linkedin.com/in/lubnaasmi)
+
+
+💡 *Let's collaborate and create impactful solutions together!
 
 <!--
 **lubnaasmi/lubnaasmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
