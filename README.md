@@ -22,8 +22,10 @@ I'm a Data Science apprentice passionate about leveraging data and AI to solve r
 
 ## 📫 Get in Touch
 
-- 📧 Email: (mailto:llubnaasmi@gmail.com)
-- 💼 LinkedIn: (https://linkedin.com/in/lubnaasmi)
+- 📧 **Email:** [llubnaasmi@gmail.com](mailto:llubnaasmi@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/lubnaasmi)
+
+Let's collaborate and create impactful data-driven solutions together!
 
 
 💡 *Let's collaborate and create impactful solutions together!
