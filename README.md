@@ -5,7 +5,7 @@ I'm a Data Science apprentice passionate about leveraging data and AI to solve r
 ## 🔧 Skills
 
 **Languages & Tools:**
-- **Programming:** Python,
+- **Programming:** Python
 - **Databases:** SQL, PostgreSQL, MySQL
 - **Data Manipulation:** Pandas, NumPy
 - **Machine Learning:** Scikit-learn
