@@ -6,17 +6,16 @@ I'm a Data Science apprentice passionate about leveraging data and AI to solve r
 
 **Languages & Tools:**
 
-- **Product Operations:** User Acceptance Testing (UAT), Technical Documentation (User Stories), HTML/CSS, Git/GitHub, REST APIs
 - **Data & Analytics:** SQL (PostgreSQL, MySQL), Python (Pandas, NumPy), Tableau, Matplotlib, Seaborn
 - **AI & Emerging Tech:** LLM Workflows (RAG, LangChain), Prompt Engineering, Scikit-learn, Sentiment Analysis
 - **Version Control:** Git, GitHub
 - **Data Visualization:** Matplotlib, Seaborn, Tableau
+- **Product Operations:** User Acceptance Testing (UAT), Technical Documentation (User Stories), HTML/CSS, Git/GitHub, REST APIs
 
 
 ## 🌱 Professional Growth
 
-- **Currently Learning:** Agile Methodologies, Product Lifecycle Management, and Advanced LLM Fine-tuning
-  
+- **Currently Learning:** Agile Methodologies, Product Lifecycle Management, Advanced LLM Fine-tuning, Artificial Intelligence
 
 
 ## 📫 Get in Touch
