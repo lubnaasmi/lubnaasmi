@@ -5,18 +5,17 @@ I'm a Data Science apprentice passionate about leveraging data and AI to solve r
 ## 🔧 Skills
 
 **Languages & Tools:**
-- **Programming:** Python
-- **Databases:** SQL, PostgreSQL, MySQL
-- **Data Manipulation:** Pandas, NumPy
-- **Machine Learning:** Scikit-learn
-- **Data Visualization:** Matplotlib, Seaborn, Tableau
+
+- **Product Operations:** User Acceptance Testing (UAT), Technical Documentation (User Stories), HTML/CSS, Git/GitHub, REST APIs
+- **Data & Analytics:** SQL (PostgreSQL, MySQL), Python (Pandas, NumPy), Tableau, Matplotlib, Seaborn
+- **AI & Emerging Tech:** LLM Workflows (RAG, LangChain), Prompt Engineering, Scikit-learn, Sentiment Analysis
 - **Version Control:** Git, GitHub
+- **Data Visualization:** Matplotlib, Seaborn, Tableau
 
-## 🌱 Currently Learning
 
-- Deep learning and neural networks
-- Advanced data visualization techniques
-- Artifitial Intelligence 
+## 🌱 Professional Growth
+
+- **Currently Learning:** Agile Methodologies, Product Lifecycle Management, and Advanced LLM Fine-tuning
   
 
 
