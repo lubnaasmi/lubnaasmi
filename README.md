@@ -15,7 +15,7 @@ I'm a Data Science apprentice passionate about leveraging data and AI to solve r
 
 ## 🌱 Professional Growth
 
-- **Currently Learning:** Agile Methodologies, Product Lifecycle Management, Advanced LLM Fine-tuning, Artificial Intelligence
+- **Currently Learning:** Advanced LLM Fine-tuning, Applied Artificial Intelligence, AI safety 
 
 
 ## 📫 Get in Touch
