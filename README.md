@@ -1,6 +1,8 @@
 # Hi there, I'm Lubna Asmi 👋
 
-I'm a Data Science apprentice passionate about leveraging data and AI to solve real-world problems and drive meaningful insights.
+I'm a Data Scientist and AI Builder with a strong foundation in Computer Science and Engineering. Experienced in building enterprise GenAI workflows (RAG, LLMs, LangChain), training machine learning models, and optimizing SQL/Python data pipelines. I don't just analyze data, I build tools that make it actionable.
+
+
 
 ## 🔧 Skills
 
