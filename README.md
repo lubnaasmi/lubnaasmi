@@ -1,6 +1,6 @@
 # Hi there, I'm Lubna Asmi 👋
 
-I'm a Data Scientist and AI Builder with a strong foundation in Computer Science and Engineering. Experienced in building enterprise GenAI workflows (RAG, LLMs, LangChain), training machine learning models, and optimizing SQL/Python data pipelines. I don't just analyze data, I build tools that make it actionable.
+I'm a Data Scientist and AI Builder with a strong foundation in Computer Science and Engineering. Experienced in building enterprise GenAI workflows, training machine learning models, and optimizing SQL/Python data pipelines. I don't just analyze data, I build tools that make it actionable.
 
 
 
