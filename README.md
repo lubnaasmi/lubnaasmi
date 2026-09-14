@@ -12,7 +12,7 @@ I'm a Data Scientist and AI Builder with a strong foundation in Computer Science
 - **AI & Emerging Tech:** LLM Workflows (RAG, LangChain), Prompt Engineering, Scikit-learn, Sentiment Analysis, n8n , Zapier
 - **Version Control:** Git, GitHub
 - **Data Visualization:** Matplotlib, Seaborn, Tableau
-- **Product Operations:** User Acceptance Testing (UAT), Technical Documentation (User Stories), HTML/CSS, Git/GitHub, REST APIs, Docker
+- **Product Operations:** User Acceptance Testing (UAT), Technical Documentation (User Stories), HTML/CSS, Git/GitHub, REST APIs, Docker.
 
 
 ## 🌱 Professional Growth
