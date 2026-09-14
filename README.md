@@ -1,23 +1,20 @@
 # Hi there, I'm Lubna Asmi 👋
 
-I'm a Data Scientist and AI Builder with a strong foundation in Computer Science and Engineering. Experienced in building enterprise GenAI workflows, training machine learning models, and optimizing SQL/Python data pipelines. I don't just analyze data, I build tools that make it actionable.
-
+Data Scientist and AI Automation Engineer with a strong foundation in Computer Science and Engineering. Experienced in building autonomous GenAI workflows, deploying end-to-end automation pipelines with n8n/Docker, and optimizing SQL/Python data infrastructure. I don’t just analyze data-I design systems that automate decisions and make insights instantly actionable.
 
 
 ## 🔧 Skills
 
 **Languages & Tools:**
 
-- **Data & Analytics:** SQL (PostgreSQL, MySQL), Python (Pandas, NumPy), Tableau, Matplotlib, Seaborn
-- **AI & Emerging Tech:** LLM Workflows (RAG, LangChain), Prompt Engineering, Scikit-learn, Sentiment Analysis, n8n , Zapier
-- **Version Control:** Git, GitHub
-- **Data Visualization:** Matplotlib, Seaborn, Tableau
-- **Product Operations:** User Acceptance Testing (UAT), Technical Documentation (User Stories), HTML/CSS, Git/GitHub, REST APIs, Docker.
-
+- **Data & Machine Learning:** Python (Pandas, NumPy, Scikit-learn), SQL (PostgreSQL, MySQL, SQLite), Machine Learning Model Training, Exploratory Data Analysis (EDA), Data Cleaning & Transformation  
+- **AI & Workflow Automation:** n8n (Docker Deployment), Zapier, Workflow Integration, LLM Architectures (RAG, Semantic Chunking), LangChain, Prompt Engineering, REST APIs
+- **Visualization & Analytics:** Tableau, Matplotlib, Seaborn, Interactive Dashboards, KPIs & Reporting Workflows  
+- **Product & Technical Operations:** Git, GitHub, Docker, User Acceptance Testing (UAT), Technical Documentation (User Stories), HTML/CSS
 
 ## 🌱 Professional Growth
 
-- **Currently Learning:** Advanced LLM Fine-tuning, Applied Artificial Intelligence, Automation
+- **Currently Learning:** LLM Fine-Tuning & Evaluation, Autonomous Agentic Workflows, Scalable Event-Driven Automation Pipelines
 
 
 ## 📫 Get in Touch
